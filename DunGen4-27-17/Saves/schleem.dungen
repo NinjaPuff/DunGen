@@ -1,0 +1,25 @@
+    ____              ______         
+   / __ \__  ______  / ____/__  ____ 
+  / / / / / / / __ \/ / __/ _ \/ __ \
+ / /_/ / /_/ / / / / /_/ /  __/ / / /
+/_____/\__,_/_/ /_/\____/\___/_/ /_/ 
+
+Dungeon Name: Schleem
+Dungeon Dimensions: 9x9
+
+.......X.
+.X...XXX.
+.XX...X..
+.XXX.XX..
+..XXXX...
+...X.....
+...XXX...
+....X#...
+.........
+
+  <> Dungeon Reference <> 
+X = Room
+# = Starting Room
+. = Nothing
+
+

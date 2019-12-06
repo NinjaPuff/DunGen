@@ -1,0 +1,152 @@
+Mono path[0] = 'C:/Users/scott/Desktop/DunGen4-27-17-20170831T140358Z-001/DunGen4-27-17/DunGen_Data/Managed'
+Mono path[1] = 'C:/Users/scott/Desktop/DunGen4-27-17-20170831T140358Z-001/DunGen4-27-17/DunGen_Data/Mono'
+Mono config path = 'C:/Users/scott/Desktop/DunGen4-27-17-20170831T140358Z-001/DunGen4-27-17/DunGen_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/scott/Desktop/DunGen4-27-17-20170831T140358Z-001/DunGen4-27-17/DunGen_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55144
+Multi-casting "[IP] 172.25.54.178 [Port] 55144 [Flags] 2 [Guid] 947921033 [EditorId] 2444939296 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-J02E44F) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [172.25.54.178:55144]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.287 seconds
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\scott\Desktop\DunGen4-27-17-20170831T140358Z-001\DunGen4-27-17\DunGen_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.736273 ms
+Vuforia initialization successful
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaRuntime:InitVuforia()
+Vuforia.VuforiaRuntimeInitialization:InitVuforia() (at C:\Users\s522980\Documents\DunGen\Assets\Vuforia\Scripts\VuforiaRuntimeInitialization.cs:40)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Vuforia/Scripts/VuforiaRuntimeInitialization.cs Line: 40)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13b8 -> priority: 1 
+  Thread -> id: 2684 -> priority: 1 
+Handle clicked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:52)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 52)
+
+Options Initiated
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:70)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 70)
+
+d_20 clicked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:52)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 52)
+
+Load Initiated
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:60)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 60)
+
+scrollbutton clicked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:52)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 52)
+
+Play Initiated
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:55)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 55)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.669401 ms
+System memory in use before: 79.7 MB.
+System memory in use after: 48.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 688.
+Total: 4.094905 ms (FindLiveObjects: 0.030267 ms CreateObjectMapping: 0.025162 ms MarkObjects: 0.232660 ms  DeleteObjects: 3.806084 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.367885 ms
+System memory in use before: 79.8 MB.
+System memory in use after: 52.2 MB.
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 895.
+Total: 3.316694 ms (FindLiveObjects: 0.072205 ms CreateObjectMapping: 0.038655 ms MarkObjects: 0.369048 ms  DeleteObjects: 2.836056 ms)
+
+WeaponModel clicked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:52)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 52)
+
+Quit Initiated
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Selection:Update() (at C:\Users\s522980\Documents\DunGen\Assets\Scripts\Selection.cs:76)
+ 
+(Filename: C:/Users/s522980/Documents/DunGen/Assets/Scripts/Selection.cs Line: 76)
+
